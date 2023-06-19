@@ -12,6 +12,10 @@ const workplaceNames = {
     dropdownCount: 1,
     names: [` `,'Sashka Z', 'Nadejda', 'Sashka K']
   },
+  'Man BB/CU': {
+    dropdownCount: 1,
+    names: [` `,'Sashka K', 'Elena E']
+  },
   'BR 1': {
     dropdownCount: 2,
     names: [` `,'Zvezdelina', 'Silvia I', 'Nadejda']
@@ -19,6 +23,10 @@ const workplaceNames = {
   'BR 2': {
     dropdownCount: 1,
     names: [` `,'Silvia L', 'Silvia I', 'Nadejda']
+  },
+  'MFA2': {
+    dropdownCount: 3,
+    names: [` `,'Danislava', 'Lili', 'Dimitar']
   },
   'Scania': {
     dropdownCount: 1,
@@ -28,9 +36,13 @@ const workplaceNames = {
     dropdownCount: 1,
     names: [` `,'Sashka Z', 'Sashka K', 'Valeri']
   },
-  'Man BB/CU': {
-    dropdownCount: 1,
-    names: [` `,'Sashka K', 'Elena E']
+  'MQB Heck' : {
+    dropdownCount: 5,
+    names: [` `, `Valeri`, `Koce`, `Elena E`]
+  },
+  'MQB 27' : {
+    dropdownCount: 3,
+    names: [` `, `Rumi`, `Sevdelin`, `Angel`, `Zvezdelina`, `Olivera`]
   },
   'MQB CLT 1': {
     dropdownCount: 3,
@@ -43,6 +55,10 @@ const workplaceNames = {
   'MNB CLT 3': {
     dropdownCount: 2,
     names: [` `,'Silvia I', 'Olivia']
+  },
+  'MQB CLT 5': {
+    dropdownCount: 1,
+    names: [` `, `Sasho`]
   },
   'Touareg': {
     dropdownCount: 1,
@@ -64,9 +80,17 @@ const workplaceNames = {
     dropdownCount: 2,
     names: [` `,'Magdalena', 'Nina']
   },
-  'MFA2': {
-    dropdownCount: 3,
-    names: [` `,'Danislava', 'Lili', 'Dimitar']
+  'ITOS 1': {
+    dropdownCount: 4,
+    names: [` `, `Elena M`, `Rumqna`, `Katq`, `Marinela`]
+  },
+  'ITOS 2': {
+    dropdownCount: 4,
+    names: [` `, `Elena M`, `Rumqna`, `Katq`, `Marinela`]
+  },
+  'MRA2 Rear': {
+    dropdownCount: 2,
+    names: [` `, `Marinela`, ` Vanq`, `Silvia M`, `Valeri` ]
   },
   'MQB CLT Touch': {
     dropdownCount: 4,
