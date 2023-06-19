@@ -161,7 +161,9 @@ function populateWorkplacesAndNames() {
           options.forEach(function(option) {
             if (option.value === selectedName) {
               option.disabled = true;
+            }else { option.disabled = false;
             }
+            
           });
         });
       });
